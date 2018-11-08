@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "lodash",
+    "transform-async-to-generator"
+  ],
+  "presets": [
+    "env",
+    "react",
+    "minify"
+  ]
+}
